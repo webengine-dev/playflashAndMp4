@@ -2,7 +2,8 @@
 
 .\bin\webengine.exe --register-pepper-plugins=".\\testpages\\pepflashplayer64_32_0_0_344.dll;application/x-shockwave-flash" "--ppapi-flash-path=testpages\\pepflashplayer64_32_0_0_344.dll"
 
-
+测试rtmp地址:
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
 
 注意：如果需要支持播放mp4需要自己编译，https://doc.qt.io/qt-5/qtwebengine-platform-notes.html。
 

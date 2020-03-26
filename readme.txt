@@ -5,7 +5,7 @@
 测试rtmp地址:
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
 
-注意：如果需要支持播放mp4需要自己编译，https://doc.qt.io/qt-5/qtwebengine-platform-notes.html。
+注意：如果需要支持播放mp4需要自己编译，参考https://doc.qt.io/qt-5/qtwebengine-platform-notes.html
 
 
 编译qwebengine步骤：

@@ -1,3 +1,7 @@
+flash下载地址：
+
+https://www.flash.cn/cdm/latest/flashplayerpp_install_cn.exe
+
 运行方式：
 
 .\bin\webengine.exe --register-pepper-plugins=".\\testpages\\pepflashplayer64_32_0_0_344.dll;application/x-shockwave-flash" "--ppapi-flash-path=testpages\\pepflashplayer64_32_0_0_344.dll"

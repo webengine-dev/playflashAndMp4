@@ -6,6 +6,8 @@ https://www.flash.cn/cdm/latest/flashplayerpp_install_cn.exe
 
 .\bin\webengine.exe --register-pepper-plugins=".\\testpages\\pepflashplayer64_32_0_0_344.dll;application/x-shockwave-flash" "--ppapi-flash-path=testpages\\pepflashplayer64_32_0_0_344.dll"
 
+.\bin\webengine.exe 安装完成flash插件可以直接运行？？？？？需要测试下
+
 测试rtmp地址:
 rtmp://202.69.69.180:443/webcast/bshdlive-pc
 
